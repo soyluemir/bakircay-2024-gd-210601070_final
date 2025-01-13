@@ -1,5 +1,5 @@
 OYUN DENEYİMİ- WebGL linki <<< 
-https://play.unity.com/en/games/545c908f-94c0-4a29-bb50-cb4600a27d0b/final
+https://play.unity.com/en/games/e8727b3c-a77f-4218-9b6b-dcf3240aeebf/final-proje
 
 Proje Genel Bakış
 Bu proje, oyun başında sahnede nesnelerin oluşturulduğu ve sadece bir nesnenin diktörtgen alana alınabildiği bir oyun mekanizması sunmaktadır. Yeni bir nesne masa olan alana alınmak istendiğinde, mevcut nesne alandan dışarı atılmaktadır.

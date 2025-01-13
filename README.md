@@ -50,7 +50,8 @@ Nesneyi fare veya dokunmatik ekran kontrolleriyle sürükleyin.
 Seçtiğiniz nesneyi yerleştirme alanına bırakın.
 Kurallara dikkat edin: Aynı anda yerleştirme alanında yalnızca bir nesne bulunabilir. Yeni bir nesne geldiğinde, önceki nesne dışarı atılır.
 Beceri butonlarını kullanarak stratejik avantaj sağlayın!
-![2](https://github.com/user-attachments/assets/0241a585-e076-4250-8059-a446c05a2e78)
+![image](https://github.com/user-attachments/assets/96507a2a-3507-4209-a9aa-bff7f4c30a9b)
+
 
 
 

@@ -1,5 +1,5 @@
-OYUN DENEYİMİ
-YouTube Linki
+OYUN DENEYİMİ- WebGL çalışmadı.
+https://youtu.be/9KuIfaZupVE
 
 Proje Genel Bakış
 Bu proje, oyun başında sahnede nesnelerin oluşturulduğu ve sadece bir nesnenin diktörtgen alana alınabildiği bir oyun mekanizması sunmaktadır. Yeni bir nesne masa olan alana alınmak istendiğinde, mevcut nesne alandan dışarı atılmaktadır.

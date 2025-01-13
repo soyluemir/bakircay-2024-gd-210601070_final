@@ -4,13 +4,13 @@ https://youtu.be/9KuIfaZupVE
 Proje Genel Bakış
 Bu proje, oyun başında sahnede nesnelerin oluşturulduğu ve sadece bir nesnenin diktörtgen alana alınabildiği bir oyun mekanizması sunmaktadır. Yeni bir nesne masa olan alana alınmak istendiğinde, mevcut nesne alandan dışarı atılmaktadır.
 
-🎮 Bakırçay Üniversitesi - 2024 Güz Dönemi 3D Eşleştirme Oyunu (Final Projesi)
+*** Bakırçay Üniversitesi - 2024 Güz Dönemi 3D Eşleştirme Oyunu (Final Projesi)
 3D Eşleştirme Oyununa hoş geldiniz! Bakırçay Üniversitesi'ndeki ders kapsamında geliştirdiğim bu proje, Unity ile oyun geliştirme yolculuğumun bir parçası olarak ortaya çıktı. Bu projenin amacı, 3D nesne etkileşim mekaniklerini keşfetmek, oyun mekaniğini geliştirmek ve işlevsel bir oyun deneyimi sunmaktır.
 
-🛠 Final Projesi İlerleme Özeti
+*** Final Projesi İlerleme Özeti
 Final projesi değerlendirmesi itibarıyla oyun mekanikleri geliştirilmiş, çeşitli ek özellikler ve detaylar tamamlanmıştır.
 
-🚧 Tamamlanan Özellikler
+*** Tamamlanan Özellikler
 
 Oyun Alanı Tasarımı
 Sahnede rastgele dağıtılmış 3D nesnelerle canlı bir oyun alanı oluşturuldu.
